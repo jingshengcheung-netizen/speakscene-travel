@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Source Serif 4", "Noto Serif SC", ui-serif, Georgia, serif;
+  --color-ink: #1a2744;
+  --color-ink-soft: #3d4a68;
+  --color-paper: #f3eee3;
+  --color-ticket: #fffdf8;
+  --color-stamp: #c44932;
+  --color-sea: #2a6f7f;
+  --color-sand: #e4d4bc;
+  --color-line: #d7cbb6;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--color-ink);
+  background:
+    radial-gradient(1200px 500px at 10% -10%, #efe4cf 0%, transparent 50%),
+    radial-gradient(900px 400px at 110% 0%, #dce7e4 0%, transparent 46%),
+    var(--color-paper);
+}
+
+#root {
+  min-height: 100dvh;
+}
+
+::selection {
+  background: #f3c9b8;
+}
+
+textarea {
+  field-sizing: content;
+}
