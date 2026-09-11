@@ -1,0 +1,92 @@
+[
+  {
+    "id": "airport-checkin",
+    "title_zh": "机场值机",
+    "title_en": "Airport check-in",
+    "level": "A2-B1",
+    "goal": "Check in for a flight, choose seat, ask about baggage allowance.",
+    "starter_line_en": "Good morning. May I see your passport and booking confirmation, please?",
+    "rubric_notes": "Passport, booking ref, window/aisle, baggage weight, gate."
+  },
+  {
+    "id": "immigration",
+    "title_zh": "入境 / 海关",
+    "title_en": "Immigration / customs",
+    "level": "A2-B1",
+    "goal": "Answer purpose of visit, length of stay, and declare items calmly.",
+    "starter_line_en": "Next, please. What's the purpose of your visit?",
+    "rubric_notes": "Tourism/business, duration, address, nothing to declare."
+  },
+  {
+    "id": "restaurant",
+    "title_zh": "餐厅点餐",
+    "title_en": "Restaurant ordering",
+    "level": "A2-B1",
+    "goal": "Order food/drinks, ask about allergens, request the bill.",
+    "starter_line_en": "Hi, table for one? Here's the menu. Are you ready to order?",
+    "rubric_notes": "I'd like..., allergy, still/sparkling, check please."
+  },
+  {
+    "id": "directions",
+    "title_zh": "问路指路",
+    "title_en": "Asking for directions",
+    "level": "A2-B1",
+    "goal": "Ask how to get somewhere and confirm landmarks / transit.",
+    "starter_line_en": "Excuse me—you look a bit lost. Where are you trying to go?",
+    "rubric_notes": "How do I get to..., left/right, straight, how long, which bus."
+  },
+  {
+    "id": "hotel",
+    "title_zh": "酒店入住 / 投诉",
+    "title_en": "Hotel check-in / complaint",
+    "level": "A2-B1",
+    "goal": "Check in, ask for Wi‑Fi, then politely report a room issue.",
+    "starter_line_en": "Welcome. Do you have a reservation under your name?",
+    "rubric_notes": "Reservation, late checkout, Wi-Fi password, AC not working."
+  },
+  {
+    "id": "shopping",
+    "title_zh": "购物 / 议价",
+    "title_en": "Shopping / bargaining",
+    "level": "A2-B1",
+    "goal": "Ask size/price, try on, negotiate politely, pay.",
+    "starter_line_en": "Hi! Looking for anything in particular today?",
+    "rubric_notes": "Do you have this in..., too expensive, any discount, I'll take it."
+  },
+  {
+    "id": "doctor",
+    "title_zh": "看医生",
+    "title_en": "Seeing a doctor",
+    "level": "A2-B1",
+    "goal": "Describe symptoms clearly and ask what to do next.",
+    "starter_line_en": "Hello, I'm Dr. Lee. What brings you in today?",
+    "rubric_notes": "I've had..., fever, pain scale, allergy to medicine, prescription."
+  },
+  {
+    "id": "taxi",
+    "title_zh": "打车 / 网约车",
+    "title_en": "Taxi / rideshare",
+    "level": "A2-B1",
+    "goal": "Give destination, confirm fare/route, ask to stop.",
+    "starter_line_en": "Hi, where to?",
+    "rubric_notes": "Take me to..., via..., how much, keep the change, pull over."
+  },
+  {
+    "id": "tickets",
+    "title_zh": "景点购票",
+    "title_en": "Attraction tickets",
+    "level": "A2-B1",
+    "goal": "Buy tickets, ask opening hours, student/senior price, photo policy.",
+    "starter_line_en": "Hello. Tickets for today? How many adults?",
+    "rubric_notes": "Adult/child, combo ticket, last entry, can I take photos."
+  },
+  {
+    "id": "emergency",
+    "title_zh": "紧急求助",
+    "title_en": "Emergency help",
+    "level": "A2-B1",
+    "goal": "Ask for help calmly: lost phone, feel unwell, need police/embassy.",
+    "starter_line_en": "Are you okay? Do you need help?",
+    "rubric_notes": "I lost my..., please call..., embassy, I don't feel well."
+  }
+]
